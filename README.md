@@ -1,6 +1,6 @@
 ## Este repositório é onde minha página pessoal do github pages está hospedada
 
-[imbrava.github.io](https://imbraba.github.io)
+[jsonbulljr.github.io](https://jsonbulljr.github.io)
 
 Esta página foi construída utilizando:
 
